@@ -10,7 +10,7 @@ static void in_volk(){
 
 int main(){
     int i=0;
-    int count=50;
+    int count=100;
     int total=0;
     for (int i = 0; i < count; i++)
     {
